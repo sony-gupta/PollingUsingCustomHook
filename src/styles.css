@@ -1,0 +1,55 @@
+.heading {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 10%;
+}
+
+.startHead {
+  color: green;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 8%;
+}
+
+.startBtn {
+  background-color: red;
+  font-family: sans-serif;
+  border-radius: 6px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  border: transparent;
+  font-weight: 800;
+  margin-bottom: 8%;
+  margin-left: 38%;
+}
+
+.stopHead {
+  color: red;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 8%;
+}
+
+.stopBtn {
+  background-color: green;
+  font-family: sans-serif;
+  border-radius: 6px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  border: transparent;
+  font-weight: 800;
+  margin-bottom: 8%;
+  margin-left: 38%;
+}
+
+.App {
+  height: auto;
+  width: auto;
+  background-color: lightgray;
+}
